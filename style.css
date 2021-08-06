@@ -11,7 +11,7 @@
   font-family: 'Josefin Sans', sans-serif;
   
 }
-.cabecalho{
+.header {
   background-image: url("images/desktop/nasa-111.jpg");
   background-size: cover;
   color: rgb(247, 241, 241);
@@ -26,7 +26,7 @@
  
 
 }
-.looplogo{
+.weblogo{
   width: 40vw;
   margin: 1em;
 }
@@ -34,14 +34,14 @@
   width: 1.5em;
   margin: 1em;
 }
-.cabecalho ul{
+.header ul{
   list-style: none;
   display: flex;
 }
-.cabecalho ul li{
+.header ul li{
   margin-right: 5px;
 }
-.cabecalho h1{
+.hearder h1{
   margin: 0.7em;
   font-size: 2.3em;
   font-weight: 400;
@@ -125,31 +125,31 @@ article p{
 .anara{
   background-image: url(images/desktop/Anara\ eje.jpeg);
 }
-.deep{
+.maks{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.52.jpeg);
 }
-.night{
+.jide{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.52\ \(1\).jpeg);
 }
-.soccer{
+.elzada{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.53.jpeg);
 }
-.tgrid{
+.aziz{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.53\ \(1\).jpeg);
 }
-.tgrid p{
+.aziz p{
   width: 20%;
 }
-.fuav{
+.elnura{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.54.jpeg);
 }
-.pocket{
+.urmat{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.54\ \(1\).jpeg);
 }
-.tcuri{
+.janat{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.55.jpeg);
 }
-.fish{
+.yrys{
   background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.55\ \(1\).jpeg);
 }
 
@@ -164,7 +164,7 @@ article p{
   letter-spacing:5px;
   font-size: 1em;
 }
-.rodape{
+.footer{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -172,36 +172,36 @@ article p{
   color: white;
   margin-top: 4em;
 }
-.rodape .logord{
+.footer .logord{
   margin: 2em;
   width: 40vw;
   margin-top: 3.5em;
 }
-.rodape ul{
+.footer ul{
   text-align: center;
   list-style: none;
   font-weight: 600;
 }
-.rodape ul li{
+.footer ul li{
   margin: 1em;
 }
-.roda1{
+.icon1{
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.roda2{
+.icon2{
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.sn{
+.iconitems{
   margin-top: 2em;
 }
-.sn a{
+.iconitems a{
   margin: 0.4em;
 }
-.rodColor{
+.copyright{
   color: hsl(0, 0%, 55%);
   margin: 0.5em;
   font-weight: 600;
