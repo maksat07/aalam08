@@ -1,5 +1,5 @@
 @media (max-width: 1280px){
-  .header ul{
+  .cabecalho ul{
     display: none;
   }
   .bttnDesk{
@@ -10,26 +10,26 @@
   .mobim{
     display: none;
   }
-  .header{
+  .cabecalho{
     background-image: url(images/desktop/nasa-111.jpg);
     
   }
-  .header h1{
+  .cabecalho h1{
     margin: 0.5em;
     font-size: 4em;
   }
-  .fotoCont{
+  .hdrCont{
     margin: 9em;
     margin-top: 4em;
     margin-bottom: 10em;
   }
-  .fotoCont img{
+  .hdrCont img{
     width: 14vw;
   }
   .menu{
     width: auto;
   }
-  .header ul li{
+  .cabecalho ul li{
     margin-left: 2em;
     font-weight: 800;
     font-size: 1em;
@@ -91,31 +91,31 @@
   .anara{
     background-image: url(images/desktop/Anara\ eje.jpeg);
   }
-  .maks{
+  .deep{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.52.jpeg);
   }
-  .jide{
+  .night{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.52\ \(1\).jpeg);
   }
-  .elzada{
+  .soccer{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.53.jpeg);
   }
-  .aziz{
+  .tgrid{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.53\ \(1\).jpeg);
   }
-  .aziz p{
+  .tgrid p{
     width: 20%;
   }
-  .elnura{
+  .fuav{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.54.jpeg);
   }
-  .urmat{
+  .pocket{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.54\ \(1\).jpeg);
   }
-  .janat{
+  .tcuri{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.55.jpeg);
   }
-  .yrys{
+  .fish{
     background-image: url(images/desktop/WhatsApp\ Image\ 2021-07-28\ at\ 00.59.55\ \(1\).jpeg);
   }
   .bttnMobi{
@@ -140,41 +140,41 @@
   .crea{
     margin: 0;
   }
-  .footer{
+  .rodape{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin-top: 11em;
   }
-  .footer ul{
+  .rodape ul{
     display: flex;
     margin-top: 2em;
   }
-  .footer ul li{
+  .rodape ul li{
     margin-left: 0;
   }
-  .copyright{
+  .rodColor{
     margin: 0;
     margin-top: 1em;
   }
-  .footer .logord{
+  .rodape .logord{
     width: 10vw;
     margin: 0;
   }
-  .icon1{
+  .roda1{
     align-items: flex-start;
    
     margin-left: 6em;
     
   }
-  .icon2{
+  .roda2{
     align-items: flex-end;
     text-align: end;
     margin-top: 2em;
     margin-right: 6em;
     margin-bottom: 2em;
   }
-  .iconitems{
+  .sn{
     margin: 0;
   }
 }
